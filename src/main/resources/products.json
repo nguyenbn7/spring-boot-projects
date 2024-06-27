@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "Green Code Gloves",
+    "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "price": 877.6,
+    "imageUrl": "images/product/product-1.jpg",
+    "brandId": 8
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "price": 532.31,
+    "imageUrl": "images/products/glove-react1.png",
+    "brandId": 6
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "price": 529.33,
+    "imageUrl": "images/product/product-13.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Core Red Boots",
+    "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "price": 147.21,
+    "imageUrl": "images/products/glove-react1.png",
+    "brandId": 3
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "price": 806.51,
+    "imageUrl": "images/products/glove-code2.png",
+    "brandId": 12
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "price": 169.67,
+    "imageUrl": "images/products/boot-redis1.png",
+    "brandId": 1
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "price": 641.77,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 7
+  },
+  {
+    "name": "T-shirt Contrast Pocket",
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": 960.04,
+    "imageUrl": "images/product/product-14.jpg",
+    "brandId": 11
+  },
+  {
+    "name": "Core Board Speed Rush 3",
+    "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "price": 287.87,
+    "imageUrl": "images/product/product-11.jpg",
+    "brandId": 4
+  },
+  {
+    "name": "Core Purple Boots",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 826.02,
+    "imageUrl": "images/products/glove-react1.png",
+    "brandId": 3
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "price": 296.34,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 13
+  },
+  {
+    "name": "Core Blue Hat",
+    "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "price": 538.81,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 2
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": 92.16,
+    "imageUrl": "images/products/hat-core1.png",
+    "brandId": 3
+  },
+  {
+    "name": "Core Red Boots",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 26.01,
+    "imageUrl": "images/products/hat-react2.png",
+    "brandId": 4
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "price": 980.23,
+    "imageUrl": "images/products/sb-react1.png",
+    "brandId": 11
+  },
+  {
+    "name": "Core Red Boots",
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "price": 739.81,
+    "imageUrl": "images/products/hat-react1.png",
+    "brandId": 4
+  },
+  {
+    "name": "Angular Blue Boots",
+    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "price": 550.69,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 6
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": 676.95,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 2
+  },
+  {
+    "name": "Angular Blue Boots",
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "price": 254.33,
+    "imageUrl": "images/products/hat-react1.png",
+    "brandId": 9
+  },
+  {
+    "name": "Redis Red Boots",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "price": 225.47,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 7
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "price": 681.47,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 11
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "price": 694.8,
+    "imageUrl": "images/product/product-12.jpg",
+    "brandId": 4
+  },
+  {
+    "name": "Core Purple Boots",
+    "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "price": 10.64,
+    "imageUrl": "images/product/product-10.jpg",
+    "brandId": 6
+  },
+  {
+    "name": "Typescript Entry Board",
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": 332.8,
+    "imageUrl": "images/products/boot-core1.png",
+    "brandId": 10
+  },
+  {
+    "name": "Typescript Entry Board",
+    "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "price": 782.74,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 11
+  },
+  {
+    "name": "Typescript Entry Board",
+    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "price": 957.2,
+    "imageUrl": "images/products/hat-react2.png",
+    "brandId": 2
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "price": 265.48,
+    "imageUrl": "images/product/product-6.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Core Purple Boots",
+    "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "price": 829.37,
+    "imageUrl": "images/product/product-10.jpg",
+    "brandId": 5
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": 785.67,
+    "imageUrl": "images/products/hat-core1.png",
+    "brandId": 9
+  },
+  {
+    "name": "Core Board Speed Rush 3",
+    "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "price": 175.94,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 5
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+    "price": 77.99,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 9
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "price": 754.51,
+    "imageUrl": "images/products/sb-core2.png",
+    "brandId": 7
+  },
+  {
+    "name": "Typescript Entry Board",
+    "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "price": 668.5,
+    "imageUrl": "images/products/glove-code2.png",
+    "brandId": 4
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": 180.29,
+    "imageUrl": "images/product/product-6.jpg",
+    "brandId": 7
+  },
+  {
+    "name": "Redis Red Boots",
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "price": 581.44,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Core Board Speed Rush 3",
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": 756.43,
+    "imageUrl": "images/products/hat-react1.png",
+    "brandId": 6
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "price": 210.8,
+    "imageUrl": "images/products/boot-redis1.png",
+    "brandId": 1
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "price": 759.91,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 13
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "price": 722.32,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 5
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "price": 422.73,
+    "imageUrl": "images/products/sb-core2.png",
+    "brandId": 1
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+    "price": 530.17,
+    "imageUrl": "images/products/glove-code1.png",
+    "brandId": 5
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 225.56,
+    "imageUrl": "images/product/product-13.jpg",
+    "brandId": 11
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "price": 187.7,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 2
+  },
+  {
+    "name": "Ankle Boots",
+    "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "price": 739.41,
+    "imageUrl": "images/products/glove-react2.png",
+    "brandId": 10
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "price": 759.54,
+    "imageUrl": "images/product/product-12.jpg",
+    "brandId": 2
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "price": 107.6,
+    "imageUrl": "images/product/product-14.jpg",
+    "brandId": 8
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "price": 496.36,
+    "imageUrl": "images/products/glove-code1.png",
+    "brandId": 2
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "price": 832.04,
+    "imageUrl": "images/product/product-8.jpg",
+    "brandId": 2
+  },
+  {
+    "name": "Net Core Super Board",
+    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 189.01,
+    "imageUrl": "images/products/hat-core1.png",
+    "brandId": 6
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "price": 719.74,
+    "imageUrl": "images/products/glove-code1.png",
+    "brandId": 2
+  },
+  {
+    "name": "Angular Blue Boots",
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": 509.86,
+    "imageUrl": "images/products/sb-ang1.png",
+    "brandId": 13
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "price": 37.47,
+    "imageUrl": "images/products/boot-ang1.png",
+    "brandId": 1
+  },
+  {
+    "name": "Purple React Woolen Hat",
+    "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "price": 49.0,
+    "imageUrl": "images/products/boot-redis1.png",
+    "brandId": 5
+  },
+  {
+    "name": "Redis Red Boots",
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "price": 404.57,
+    "imageUrl": "images/products/glove-react2.png",
+    "brandId": 2
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "price": 545.83,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 2
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    "price": 936.25,
+    "imageUrl": "images/product/product-4.jpg",
+    "brandId": 4
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "price": 289.32,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 9
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "price": 126.16,
+    "imageUrl": "images/product/product-12.jpg",
+    "brandId": 13
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "price": 470.74,
+    "imageUrl": "images/product/product-11.jpg",
+    "brandId": 4
+  },
+  {
+    "name": "Purple React Woolen Hat",
+    "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "price": 642.95,
+    "imageUrl": "images/products/glove-code2.png",
+    "brandId": 1
+  },
+  {
+    "name": "Core Blue Hat",
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+    "price": 984.85,
+    "imageUrl": "images/products/sb-core2.png",
+    "brandId": 2
+  },
+  {
+    "name": "Core Red Boots",
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "price": 542.67,
+    "imageUrl": "images/products/hat-react1.png",
+    "brandId": 9
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+    "price": 434.09,
+    "imageUrl": "images/products/boot-core2.png",
+    "brandId": 5
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "price": 874.69,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 9
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "price": 637.88,
+    "imageUrl": "images/products/boot-core2.png",
+    "brandId": 1
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "price": 528.89,
+    "imageUrl": "images/products/sb-ts1.png",
+    "brandId": 2
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "price": 86.38,
+    "imageUrl": "images/products/hat-core1.png",
+    "brandId": 9
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "price": 881.23,
+    "imageUrl": "images/product/product-8.jpg",
+    "brandId": 2
+  },
+  {
+    "name": "Basic Flowing Scarf",
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "price": 610.63,
+    "imageUrl": "images/products/boot-ang1.png",
+    "brandId": 6
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "price": 346.5,
+    "imageUrl": "images/products/boot-ang2.png",
+    "brandId": 1
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "price": 391.75,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 6
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": 82.95,
+    "imageUrl": "images/products/boot-redis1.png",
+    "brandId": 11
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "price": 960.03,
+    "imageUrl": "images/products/glove-react1.png",
+    "brandId": 2
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "price": 354.78,
+    "imageUrl": "images/products/boot-ang2.png",
+    "brandId": 11
+  },
+  {
+    "name": "Core Blue Hat",
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "price": 673.69,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 9
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": 622.04,
+    "imageUrl": "images/products/sb-core2.png",
+    "brandId": 10
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+    "price": 898.21,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 13
+  },
+  {
+    "name": "Typescript Entry Board",
+    "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "price": 340.22,
+    "imageUrl": "images/product/product-4.jpg",
+    "brandId": 9
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 597.66,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 7
+  },
+  {
+    "name": "Typescript Entry Board",
+    "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "price": 85.71,
+    "imageUrl": "images/product/product-8.jpg",
+    "brandId": 10
+  },
+  {
+    "name": "Angular Blue Boots",
+    "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "price": 69.56,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 5
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "price": 817.38,
+    "imageUrl": "images/product/product-4.jpg",
+    "brandId": 8
+  },
+  {
+    "name": "Angular Blue Boots",
+    "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "price": 878.18,
+    "imageUrl": "images/product/product-12.jpg",
+    "brandId": 3
+  },
+  {
+    "name": "Green React Woolen Hat",
+    "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "price": 201.57,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 2
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "price": 103.52,
+    "imageUrl": "images/product/product-6.jpg",
+    "brandId": 1
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "price": 19.13,
+    "imageUrl": "images/products/sb-core2.png",
+    "brandId": 10
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 26.32,
+    "imageUrl": "images/products/sb-ang1.png",
+    "brandId": 1
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "price": 335.1,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 6
+  },
+  {
+    "name": "Net Core Super Board",
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+    "price": 638.36,
+    "imageUrl": "images/products/boot-core2.png",
+    "brandId": 2
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "price": 382.26,
+    "imageUrl": "images/products/glove-react1.png",
+    "brandId": 4
+  },
+  {
+    "name": "Core Purple Boots",
+    "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "price": 925.77,
+    "imageUrl": "images/products/sb-ts1.png",
+    "brandId": 10
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "price": 773.22,
+    "imageUrl": "images/products/sb-core2.png",
+    "brandId": 4
+  },
+  {
+    "name": "Core Purple Boots",
+    "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "price": 417.17,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 10
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": 153.04,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 6
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "price": 242.76,
+    "imageUrl": "images/products/sb-ts1.png",
+    "brandId": 1
+  },
+  {
+    "name": "Core Blue Hat",
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "price": 235.91,
+    "imageUrl": "images/products/boot-ang1.png",
+    "brandId": 11
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "price": 615.7,
+    "imageUrl": "images/product/product-4.jpg",
+    "brandId": 3
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "price": 92.6,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 7
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "price": 215.76,
+    "imageUrl": "images/product/product-12.jpg",
+    "brandId": 4
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": 552.73,
+    "imageUrl": "images/product/product-12.jpg",
+    "brandId": 5
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "price": 669.96,
+    "imageUrl": "images/product/product-6.jpg",
+    "brandId": 7
+  },
+  {
+    "name": "Core Board Speed Rush 3",
+    "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "price": 809.05,
+    "imageUrl": "images/products/sb-ts1.png",
+    "brandId": 10
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 699.26,
+    "imageUrl": "images/products/boot-ang2.png",
+    "brandId": 2
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+    "price": 654.7,
+    "imageUrl": "images/products/hat-react2.png",
+    "brandId": 6
+  },
+  {
+    "name": "Core Blue Hat",
+    "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": 61.17,
+    "imageUrl": "images/product/product-13.jpg",
+    "brandId": 11
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "price": 26.83,
+    "imageUrl": "images/products/glove-react1.png",
+    "brandId": 5
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 972.78,
+    "imageUrl": "images/products/sb-ang1.png",
+    "brandId": 8
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "price": 748.95,
+    "imageUrl": "images/products/boot-redis1.png",
+    "brandId": 8
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 846.25,
+    "imageUrl": "images/product/product-12.jpg",
+    "brandId": 11
+  },
+  {
+    "name": "Angular Blue Boots",
+    "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "price": 398.08,
+    "imageUrl": "images/product/product-6.jpg",
+    "brandId": 3
+  },
+  {
+    "name": "Basic Flowing Scarf",
+    "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "price": 38.26,
+    "imageUrl": "images/product/product-6.jpg",
+    "brandId": 3
+  },
+  {
+    "name": "Net Core Super Board",
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "price": 385.28,
+    "imageUrl": "images/products/boot-core2.png",
+    "brandId": 11
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "price": 179.06,
+    "imageUrl": "images/products/hat-core1.png",
+    "brandId": 5
+  },
+  {
+    "name": "Basic Flowing Scarf",
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "price": 377.53,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Core Red Boots",
+    "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "price": 98.62,
+    "imageUrl": "images/products/sb-react1.png",
+    "brandId": 2
+  },
+  {
+    "name": "Purple React Woolen Hat",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "price": 765.28,
+    "imageUrl": "images/product/product-8.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 300.9,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 8
+  },
+  {
+    "name": "Core Blue Hat",
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "price": 903.96,
+    "imageUrl": "images/products/boot-redis1.png",
+    "brandId": 8
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "price": 826.52,
+    "imageUrl": "images/product/product-13.jpg",
+    "brandId": 2
+  },
+  {
+    "name": "Net Core Super Board",
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "price": 114.57,
+    "imageUrl": "images/product/product-2.jpg",
+    "brandId": 9
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 535.94,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Basic Flowing Scarf",
+    "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "price": 238.66,
+    "imageUrl": "images/products/glove-code1.png",
+    "brandId": 7
+  },
+  {
+    "name": "Green React Woolen Hat",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "price": 313.88,
+    "imageUrl": "images/products/glove-react2.png",
+    "brandId": 8
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "price": 479.46,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 7
+  },
+  {
+    "name": "Core Board Speed Rush 3",
+    "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "price": 347.7,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 6
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "price": 927.58,
+    "imageUrl": "images/products/boot-core2.png",
+    "brandId": 9
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "price": 470.04,
+    "imageUrl": "images/products/glove-react1.png",
+    "brandId": 7
+  },
+  {
+    "name": "Angular Blue Boots",
+    "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "price": 177.22,
+    "imageUrl": "images/product/product-1.jpg",
+    "brandId": 10
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+    "price": 386.83,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "price": 568.59,
+    "imageUrl": "images/products/boot-ang2.png",
+    "brandId": 5
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "price": 711.76,
+    "imageUrl": "images/products/sb-ang1.png",
+    "brandId": 8
+  },
+  {
+    "name": "Typescript Entry Board",
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "price": 292.55,
+    "imageUrl": "images/products/boot-core1.png",
+    "brandId": 10
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "price": 472.99,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 3
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "price": 839.94,
+    "imageUrl": "images/products/glove-code2.png",
+    "brandId": 3
+  },
+  {
+    "name": "Core Blue Hat",
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": 786.96,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 8
+  },
+  {
+    "name": "Redis Red Boots",
+    "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "price": 824.78,
+    "imageUrl": "images/products/sb-ang1.png",
+    "brandId": 4
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "price": 280.95,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "price": 499.06,
+    "imageUrl": "images/products/boot-core1.png",
+    "brandId": 8
+  },
+  {
+    "name": "Core Purple Boots",
+    "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "price": 202.11,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 13
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "price": 748.16,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 5
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "price": 61.69,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 3
+  },
+  {
+    "name": "T-shirt Contrast Pocket",
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "price": 779.98,
+    "imageUrl": "images/product/product-6.jpg",
+    "brandId": 11
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": 399.79,
+    "imageUrl": "images/products/boot-core1.png",
+    "brandId": 5
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "price": 903.29,
+    "imageUrl": "images/products/boot-core2.png",
+    "brandId": 1
+  },
+  {
+    "name": "Angular Blue Boots",
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 174.31,
+    "imageUrl": "images/products/sb-core2.png",
+    "brandId": 7
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "price": 51.39,
+    "imageUrl": "images/products/sb-ang1.png",
+    "brandId": 10
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+    "price": 120.1,
+    "imageUrl": "images/product/product-9.jpg",
+    "brandId": 8
+  },
+  {
+    "name": "Green Angular Board 3000",
+    "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "price": 681.01,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 10
+  },
+  {
+    "name": "Ankle Boots",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+    "price": 12.74,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 4
+  },
+  {
+    "name": "Core Purple Boots",
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": 203.89,
+    "imageUrl": "images/product/product-14.jpg",
+    "brandId": 7
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "price": 447.58,
+    "imageUrl": "images/products/glove-react1.png",
+    "brandId": 10
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "price": 208.32,
+    "imageUrl": "images/products/boot-ang1.png",
+    "brandId": 11
+  },
+  {
+    "name": "Net Core Super Board",
+    "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": 44.67,
+    "imageUrl": "images/products/boot-core2.png",
+    "brandId": 2
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "price": 641.12,
+    "imageUrl": "images/products/sb-core2.png",
+    "brandId": 2
+  },
+  {
+    "name": "Core Red Boots",
+    "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "price": 823.46,
+    "imageUrl": "images/products/sb-ts1.png",
+    "brandId": 7
+  },
+  {
+    "name": "React Board Super Whizzy Fast",
+    "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "price": 370.39,
+    "imageUrl": "images/products/hat-react2.png",
+    "brandId": 13
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "price": 554.3,
+    "imageUrl": "images/products/boot-core2.png",
+    "brandId": 5
+  },
+  {
+    "name": "Redis Red Boots",
+    "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "price": 164.03,
+    "imageUrl": "images/products/hat-core1.png",
+    "brandId": 12
+  },
+  {
+    "name": "Core Red Boots",
+    "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "price": 994.4,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 13
+  },
+  {
+    "name": "Ankle Boots",
+    "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "price": 352.35,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 5
+  },
+  {
+    "name": "Basic Flowing Scarf",
+    "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 26.94,
+    "imageUrl": "images/product/product-12.jpg",
+    "brandId": 7
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "price": 814.32,
+    "imageUrl": "images/product/product-11.jpg",
+    "brandId": 4
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+    "price": 779.72,
+    "imageUrl": "images/products/hat-core1.png",
+    "brandId": 8
+  },
+  {
+    "name": "Redis Red Boots",
+    "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "price": 245.57,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 2
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "price": 737.35,
+    "imageUrl": "images/products/glove-code2.png",
+    "brandId": 5
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "price": 255.94,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 9
+  },
+  {
+    "name": "Core Purple Boots",
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "price": 881.26,
+    "imageUrl": "images/products/hat-react2.png",
+    "brandId": 5
+  },
+  {
+    "name": "T-shirt Contrast Pocket",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+    "price": 65.43,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 1
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "price": 936.5,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 13
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+    "price": 615.4,
+    "imageUrl": "images/products/glove-react2.png",
+    "brandId": 12
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "price": 758.68,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 7
+  },
+  {
+    "name": "T-shirt Contrast Pocket",
+    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+    "price": 208.12,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 2
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "price": 363.28,
+    "imageUrl": "images/product/product-8.jpg",
+    "brandId": 5
+  },
+  {
+    "name": "Core Purple Boots",
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "price": 990.31,
+    "imageUrl": "images/product/product-11.jpg",
+    "brandId": 1
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "price": 599.15,
+    "imageUrl": "images/products/hat-react2.png",
+    "brandId": 5
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "price": 120.46,
+    "imageUrl": "images/products/sb-ts1.png",
+    "brandId": 2
+  },
+  {
+    "name": "Purple React Woolen Hat",
+    "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "price": 629.69,
+    "imageUrl": "images/product/product-12.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Purple React Woolen Hat",
+    "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+    "price": 438.12,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 8
+  },
+  {
+    "name": "Piqué Biker Jacket",
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": 703.09,
+    "imageUrl": "images/product/product-6.jpg",
+    "brandId": 8
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": 114.3,
+    "imageUrl": "images/products/hat-core1.png",
+    "brandId": 7
+  },
+  {
+    "name": "Purple React Woolen Hat",
+    "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+    "price": 355.82,
+    "imageUrl": "images/product/product-10.jpg",
+    "brandId": 7
+  },
+  {
+    "name": "Typescript Entry Board",
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": 385.22,
+    "imageUrl": "images/products/glove-code2.png",
+    "brandId": 10
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "price": 848.05,
+    "imageUrl": "images/product/product-7.jpg",
+    "brandId": 3
+  },
+  {
+    "name": "Green React Woolen Hat",
+    "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+    "price": 48.32,
+    "imageUrl": "images/products/sb-ang1.png",
+    "brandId": 1
+  },
+  {
+    "name": "Core Blue Hat",
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "price": 30.99,
+    "imageUrl": "images/products/hat-react1.png",
+    "brandId": 5
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+    "price": 416.0,
+    "imageUrl": "images/products/boot-core1.png",
+    "brandId": 9
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "price": 966.29,
+    "imageUrl": "images/products/boot-ang2.png",
+    "brandId": 9
+  },
+  {
+    "name": "Blue Code Gloves",
+    "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+    "price": 805.69,
+    "imageUrl": "images/products/sb-ang1.png",
+    "brandId": 12
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "price": 847.2,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 5
+  },
+  {
+    "name": "Green Code Gloves",
+    "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+    "price": 660.12,
+    "imageUrl": "images/products/hat-react1.png",
+    "brandId": 12
+  },
+  {
+    "name": "Diagonal Textured Cap",
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "price": 179.34,
+    "imageUrl": "images/products/sb-core2.png",
+    "brandId": 13
+  },
+  {
+    "name": "Angular Speedster Board 2000",
+    "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.",
+    "price": 676.72,
+    "imageUrl": "images/products/hat-react2.png",
+    "brandId": 5
+  },
+  {
+    "name": "Purple React Gloves",
+    "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+    "price": 384.57,
+    "imageUrl": "images/products/boot-ang1.png",
+    "brandId": 5
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+    "price": 824.91,
+    "imageUrl": "images/product/product-10.jpg",
+    "brandId": 10
+  },
+  {
+    "name": "Angular Purple Boots",
+    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+    "price": 983.43,
+    "imageUrl": "images/product/product-10.jpg",
+    "brandId": 12
+  },
+  {
+    "name": "Multi-pocket Chest Bag",
+    "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+    "price": 678.35,
+    "imageUrl": "images/product/product-8.jpg",
+    "brandId": 3
+  },
+  {
+    "name": "Green React Gloves",
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+    "price": 467.47,
+    "imageUrl": "images/products/sb-core1.png",
+    "brandId": 5
+  },
+  {
+    "name": "Core Blue Hat",
+    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "price": 775.81,
+    "imageUrl": "images/products/sb-ts1.png",
+    "brandId": 6
+  },
+  {
+    "name": "Core Board Speed Rush 3",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "price": 27.45,
+    "imageUrl": "images/product/product-8.jpg",
+    "brandId": 11
+  },
+  {
+    "name": "T-shirt Contrast Pocket",
+    "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "price": 521.06,
+    "imageUrl": "images/products/sb-ang2.png",
+    "brandId": 3
+  }
+]
