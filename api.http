@@ -4,6 +4,12 @@
 GET {{host}}/v1/products HTTP/1.1
 
 ### 
+GET {{host}}/v1/products?sort=price HTTP/1.1
+
+### 
+GET {{host}}/v1/products?sort=-price HTTP/1.1
+
+###
 GET {{host}}/v1/products?brandId=7 HTTP/1.1
 
 ### 

@@ -3,7 +3,7 @@ plugins {
 	id("org.springframework.boot") version "3.3.1"
 	id("io.spring.dependency-management") version "1.1.5"
 	id("org.hibernate.orm") version "6.5.2.Final"
-	// id("org.graalvm.buildtools.native") version "0.10.2"
+	id("org.graalvm.buildtools.native") version "0.10.2"
 }
 
 group = "demo"

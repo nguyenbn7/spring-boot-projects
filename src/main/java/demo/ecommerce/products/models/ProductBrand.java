@@ -1,4 +1,4 @@
-package demo.ecommerce.products.entities;
+package demo.ecommerce.products.models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

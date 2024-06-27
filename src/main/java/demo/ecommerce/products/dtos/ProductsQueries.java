@@ -16,6 +16,8 @@ public class ProductsQueries {
     private Long brandId;
     private Integer pageSize;
     private Integer pageNumber;
+    private String sort;
+    private String search;
 
     public Optional<Long> getBrandId() {
         return Optional.ofNullable(brandId);
@@ -29,5 +31,14 @@ public class ProductsQueries {
     public int getPageNumber() {
         int pageNumberValue = Optional.ofNullable(pageNumber).orElse(1);
         return pageNumberValue < 1 ? 1 : pageNumberValue;
+    }
+
+    public String getSort() {
+        var optional = Optional.ofNullable(sort);
+        return optional.isEmpty() ? "" : optional.get();
+    }
+
+    public Optional<String> getSearch() {
+        return Optional.ofNullable(search);
     }
 }
