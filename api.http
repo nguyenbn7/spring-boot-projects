@@ -4,7 +4,7 @@
 GET {{host}}/v1/products HTTP/1.1
 
 ### 
-GET {{host}}/v1/products?brandId=11 HTTP/1.1
+GET {{host}}/v1/products?brandId=8 HTTP/1.1
 
 ### 
 GET {{host}}/v1/products?brandId=11&pageNumber=2&pageSize=10 HTTP/1.1
