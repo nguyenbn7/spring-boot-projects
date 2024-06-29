@@ -14,6 +14,8 @@ import demo.ecommerce.shared.Page;
 import demo.ecommerce.shared.error.NotFoundEntityException;
 
 import java.util.List;
+import java.util.Optional;
+
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
@@ -35,7 +37,7 @@ public class ProductsController {
         this.productBrandRepository = productBrandRepository;
     }
 
-    @GetMapping()
+    @GetMapping
     public Page<ShopProduct> getPageProduct(ProductsQueries queries) {
         final Sort sortBy = switch (queries.getSort().toLowerCase()) {
             case "price" -> Sort.by("price");
@@ -43,11 +45,8 @@ public class ProductsController {
             default -> Sort.by("name");
         };
 
-        Specification<Product> specs = Specification.where(null);
-
-        if (queries.getBrandId().isPresent()) {
-            specs = specs.and(ProductsSpecs.matchBrand(queries.getBrandId().get()));
-        }
+        final Specification<Product> specs = Specification
+                .where(queries.getBrandId().isPresent() ? ProductsSpecs.matchBrand(queries.getBrandId().get()) : null);
 
         final Pageable pageable = PageRequest.of(queries.getPageNumber() - 1, queries.getPageSize());
 
@@ -69,16 +68,15 @@ public class ProductsController {
     @GetMapping("/{id}")
     public ProductDetail getProduct(@PathVariable("id") Long id) {
         final Specification<Product> specs = ProductsSpecs
-                .fetchBrandUsingJoin()
+                .fetchBrandUsingJoinStatement()
                 .and(ProductsSpecs.getProductBy(id));
 
-        var optional = productRepository.findBy(specs, fluentQuery -> {
+        final Optional<ProductDetail> optional = productRepository.findBy(specs, fluentQuery -> {
             return fluentQuery.as(ProductDetail.class).first();
         });
 
-        if (optional.isEmpty()) {
+        if (optional.isEmpty())
             throw new NotFoundEntityException("Product does not exist");
-        }
 
         return optional.get();
     }
