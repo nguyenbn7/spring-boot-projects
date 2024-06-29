@@ -15,7 +15,7 @@ GET {{host}}/v1/products?brandId=7 HTTP/1.1
 ### 
 GET {{host}}/v1/products?brandId=11&pageNumber=2&pageSize=10 HTTP/1.1
 
-### 
+###
 GET {{host}}/v1/products/10 HTTP/1.1
 
 ###
