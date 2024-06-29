@@ -1,4 +1,4 @@
-package demo.ecommerce.products.dtos;
+package demo.ecommerce.application.products.dtos;
 
 import java.util.Optional;
 

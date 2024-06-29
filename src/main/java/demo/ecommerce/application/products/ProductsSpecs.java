@@ -1,8 +1,8 @@
-package demo.ecommerce.products;
+package demo.ecommerce.application.products;
 
 import org.springframework.data.jpa.domain.Specification;
 
-import demo.ecommerce.products.models.Product;
+import demo.ecommerce.application.products.models.Product;
 import jakarta.persistence.criteria.JoinType;
 
 public class ProductsSpecs {

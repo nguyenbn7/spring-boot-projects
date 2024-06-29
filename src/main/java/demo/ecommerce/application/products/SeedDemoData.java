@@ -1,4 +1,4 @@
-package demo.ecommerce.products;
+package demo.ecommerce.application.products;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -12,10 +12,10 @@ import org.springframework.core.annotation.Order;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import demo.ecommerce.products.models.Product;
-import demo.ecommerce.products.models.ProductBrand;
-import demo.ecommerce.products.repositories.ProductBrandRepository;
-import demo.ecommerce.products.repositories.ProductRepository;
+import demo.ecommerce.application.products.models.Product;
+import demo.ecommerce.application.products.models.ProductBrand;
+import demo.ecommerce.application.products.repositories.ProductBrandRepository;
+import demo.ecommerce.application.products.repositories.ProductRepository;
 
 @Configuration
 public class SeedDemoData {

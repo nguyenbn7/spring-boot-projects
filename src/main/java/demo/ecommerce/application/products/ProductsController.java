@@ -1,15 +1,15 @@
-package demo.ecommerce.products;
+package demo.ecommerce.application.products;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import demo.ecommerce.products.dtos.ProductDetail;
-import demo.ecommerce.products.dtos.ProductsQueries;
-import demo.ecommerce.products.dtos.ShopProduct;
-import demo.ecommerce.products.models.Product;
-import demo.ecommerce.products.models.ProductBrand;
-import demo.ecommerce.products.repositories.ProductBrandRepository;
-import demo.ecommerce.products.repositories.ProductRepository;
+import demo.ecommerce.application.products.dtos.ProductDetail;
+import demo.ecommerce.application.products.dtos.ProductsQueries;
+import demo.ecommerce.application.products.dtos.ShopProduct;
+import demo.ecommerce.application.products.models.Product;
+import demo.ecommerce.application.products.models.ProductBrand;
+import demo.ecommerce.application.products.repositories.ProductBrandRepository;
+import demo.ecommerce.application.products.repositories.ProductRepository;
 import demo.ecommerce.shared.Page;
 import demo.ecommerce.shared.error.NotFoundEntityException;
 
