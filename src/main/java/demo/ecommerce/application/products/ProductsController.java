@@ -11,7 +11,7 @@ import demo.ecommerce.application.products.models.ProductBrand;
 import demo.ecommerce.application.products.repositories.ProductBrandRepository;
 import demo.ecommerce.application.products.repositories.ProductRepository;
 import demo.ecommerce.shared.Page;
-import demo.ecommerce.shared.error.NotFoundEntityException;
+import demo.ecommerce.shared.error.NotFoundException;
 
 import java.util.List;
 import java.util.Optional;
@@ -76,7 +76,7 @@ public class ProductsController {
         });
 
         if (optional.isEmpty())
-            throw new NotFoundEntityException("Product does not exist");
+            throw new NotFoundException("Product does not exist");
 
         return optional.get();
     }
