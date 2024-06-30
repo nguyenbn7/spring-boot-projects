@@ -62,6 +62,7 @@ public class CartsController {
         }
 
         Cart cart = new Cart(cartItems);
+        System.out.println(cart);
         cart = cartRepository.save(cart);
         return cart;
     }
