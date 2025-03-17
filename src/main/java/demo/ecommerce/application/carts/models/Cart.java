@@ -9,12 +9,13 @@ import org.springframework.data.redis.core.RedisHash;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
+import lombok.Setter;
 import lombok.ToString;
 
 @ToString
 @EqualsAndHashCode
 @Getter
-@RedisHash("carts")
+@RedisHash("ecommerce.carts")
 public class Cart implements Serializable {
     public Cart() {
         id = UUID.randomUUID().toString();
@@ -27,5 +28,6 @@ public class Cart implements Serializable {
 
     @Id
     private String id;
+    @Setter
     private List<CartItem> items;
 }

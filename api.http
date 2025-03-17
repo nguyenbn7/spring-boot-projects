@@ -29,5 +29,9 @@ Content-Type: application/json
     {
         "productId": 2,
         "quantity": 1
+    },
+    {
+        "productId": 10,
+        "quantity": 3
     }
 ]

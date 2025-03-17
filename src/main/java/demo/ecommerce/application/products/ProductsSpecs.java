@@ -1,5 +1,6 @@
 package demo.ecommerce.application.products;
 
+import java.util.Collection;
 import org.springframework.data.jpa.domain.Specification;
 
 import demo.ecommerce.application.products.models.Product;
@@ -12,7 +13,7 @@ public class ProductsSpecs {
         };
     }
 
-    public static Specification<Product> fetchBrandUsingJoin() {
+    public static Specification<Product> fetchBrandUsingJoinStatement() {
         return (root, query, builder) -> {
             root.fetch("brand", JoinType.INNER);
             return null;
@@ -22,6 +23,12 @@ public class ProductsSpecs {
     public static Specification<Product> getProductBy(Long id) {
         return (root, query, builder) -> {
             return builder.equal(root.get("id"), id);
+        };
+    }
+
+    public static Specification<Product> getProductsIn(Collection<Long> ids) {
+        return (root, query, builder) -> {
+            return root.<Long>get("id").in(ids);
         };
     }
 }
