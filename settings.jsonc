@@ -1,9 +1,11 @@
 {
   "env": {
     "datasource": {
-      "url": "jdbc:postgresql://<host>:<port>/<database>",
-      "username": "database_username",
-      "password": "database_password"
+      "host": "host",
+      "port": 5432,
+      "name": "dbName",
+      "username": "dbUsername",
+      "password": "dbPassword"
     }
   }
 }
