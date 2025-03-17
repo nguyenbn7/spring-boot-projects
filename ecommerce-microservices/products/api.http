@@ -1,0 +1,4 @@
+@host=http://localhost:8082
+
+###
+GET {{host}}/products HTTP/1.1
