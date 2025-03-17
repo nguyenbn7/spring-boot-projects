@@ -31,7 +31,7 @@ public class SeedDemoData {
             ObjectMapper mapper = new ObjectMapper();
             TypeReference<List<ProductBrand>> typeReference = new TypeReference<List<ProductBrand>>() {
             };
-            InputStream inputStream = TypeReference.class.getResourceAsStream("/brands.json");
+            InputStream inputStream = TypeReference.class.getResourceAsStream("/demodata/products/brands.json");
 
             try {
                 List<ProductBrand> brands = mapper.readValue(inputStream, typeReference);
@@ -54,7 +54,7 @@ public class SeedDemoData {
             ObjectMapper mapper = new ObjectMapper();
             TypeReference<List<Product>> typeReference = new TypeReference<List<Product>>() {
             };
-            InputStream inputStream = TypeReference.class.getResourceAsStream("/products.json");
+            InputStream inputStream = TypeReference.class.getResourceAsStream("/demodata/products/products.json");
 
             try {
                 List<Product> products = mapper.readValue(inputStream, typeReference);

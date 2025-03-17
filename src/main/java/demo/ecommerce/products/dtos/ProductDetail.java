@@ -11,6 +11,7 @@ public interface ProductDetail {
 
     BigDecimal getPrice();
 
+    @Value("#{@productImageUrlResolver.getFullImageUrl(target.imageUrl)}")
     String getImageUrl();
 
     String getDescription();

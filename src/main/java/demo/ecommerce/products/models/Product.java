@@ -34,7 +34,7 @@ public class Product {
     private String description;
 
     @ManyToOne(fetch = FetchType.LAZY, optional = false)
-    @JoinColumn(name = "brand_id", insertable = false, updatable = false)
+    @JoinColumn(name = "brand_id", nullable = false, insertable = false, updatable = false)
     private ProductBrand brand;
 
     @Column(name = "brand_id")

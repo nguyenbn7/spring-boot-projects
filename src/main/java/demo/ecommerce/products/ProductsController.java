@@ -49,7 +49,7 @@ public class ProductsController {
             specs = specs.and(ProductsSpecs.matchBrand(queries.getBrandId().get()));
         }
 
-        Pageable pageable = PageRequest.of(queries.getPageNumber() - 1, queries.getPageSize());
+        final Pageable pageable = PageRequest.of(queries.getPageNumber() - 1, queries.getPageSize());
 
         var pageProduct = productRepository.findBy(specs, fluentQuery -> {
             return fluentQuery
@@ -68,7 +68,13 @@ public class ProductsController {
 
     @GetMapping("/{id}")
     public ProductDetail getProduct(@PathVariable("id") Long id) {
-        var optional = productRepository.findById(id, ProductDetail.class);
+        final Specification<Product> specs = ProductsSpecs
+                .fetchBrandUsingJoin()
+                .and(ProductsSpecs.getProductBy(id));
+
+        var optional = productRepository.findBy(specs, fluentQuery -> {
+            return fluentQuery.as(ProductDetail.class).first();
+        });
 
         if (optional.isEmpty()) {
             throw new NotFoundEntityException("Product does not exist");
