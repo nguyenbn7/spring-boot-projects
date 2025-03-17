@@ -1,0 +1,9 @@
+@host=http://localhost:8080
+
+GET {{host}}/v1/products HTTP/1.1
+
+### 
+GET {{host}}/v1/products/10 HTTP/1.1
+
+###
+GET {{host}}/v1/products/brands HTTP/1.1
