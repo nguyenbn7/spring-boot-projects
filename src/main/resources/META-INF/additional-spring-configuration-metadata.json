@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "app.image-base-url",
+      "type": "java.lang.String",
+      "description": "Base image url where images stored"
+    }
+  ]
+}
