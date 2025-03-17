@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import demo.ecommerce.products.dtos.ProductDetail;
 import demo.ecommerce.products.dtos.ProductsQueries;
+import demo.ecommerce.products.dtos.ShopProduct;
 import demo.ecommerce.products.entities.Product;
 import demo.ecommerce.products.entities.ProductBrand;
 import demo.ecommerce.products.repositories.ProductBrandRepository;
@@ -35,7 +36,7 @@ public class ProductsController {
     }
 
     @GetMapping()
-    public Page<Product> getPageProduct(ProductsQueries queries) {
+    public Page<ShopProduct> getPageProduct(ProductsQueries queries) {
         Optional<Specification<Product>> specsOptional = Optional.empty();
         Pageable pageable = PageRequest.of(queries.getPageNumber() - 1, queries.getPageSize());
 
@@ -47,8 +48,11 @@ public class ProductsController {
         }
 
         if (specsOptional.isPresent()) {
-            var pageProduct = productRepository.findAll(specsOptional.get(), pageable);
-            return Page.<Product>builder()
+            var pageProduct = productRepository.findBy(specsOptional.get(), q -> {
+                return q.as(ShopProduct.class).page(pageable);
+            });
+
+            return Page.<ShopProduct>builder()
                     .pageNumber(queries.getPageNumber())
                     .pageSize(queries.getPageSize())
                     .totalItems(pageProduct.getTotalElements())
@@ -56,8 +60,9 @@ public class ProductsController {
                     .build();
         }
 
-        var pageProduct = productRepository.findAll(pageable);
-        return Page.<Product>builder()
+        var pageProduct = productRepository.findAllProjectedBy(pageable);
+
+        return Page.<ShopProduct>builder()
                 .pageNumber(queries.getPageNumber())
                 .pageSize(queries.getPageSize())
                 .totalItems(pageProduct.getTotalElements())
