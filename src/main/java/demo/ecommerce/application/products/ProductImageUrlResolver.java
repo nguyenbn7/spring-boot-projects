@@ -1,4 +1,4 @@
-package demo.ecommerce.products;
+package demo.ecommerce.application.products;
 
 import java.net.URI;
 import java.net.URISyntaxException;

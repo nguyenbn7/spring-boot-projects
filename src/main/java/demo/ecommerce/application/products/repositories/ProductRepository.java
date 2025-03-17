@@ -1,4 +1,4 @@
-package demo.ecommerce.products.repositories;
+package demo.ecommerce.application.products.repositories;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -6,8 +6,8 @@ import org.springframework.data.jpa.domain.Specification;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 
-import demo.ecommerce.products.dtos.ShopProduct;
-import demo.ecommerce.products.models.Product;
+import demo.ecommerce.application.products.dtos.ShopProduct;
+import demo.ecommerce.application.products.models.Product;
 
 import java.util.Optional;
 
