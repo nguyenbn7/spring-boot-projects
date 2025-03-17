@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 
 import demo.ecommerce.products.dtos.ShopProduct;
-import demo.ecommerce.products.entities.Product;
+import demo.ecommerce.products.models.Product;
 
 import java.util.Optional;
 

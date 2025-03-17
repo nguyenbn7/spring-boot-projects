@@ -12,8 +12,8 @@ import org.springframework.core.annotation.Order;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import demo.ecommerce.products.entities.Product;
-import demo.ecommerce.products.entities.ProductBrand;
+import demo.ecommerce.products.models.Product;
+import demo.ecommerce.products.models.ProductBrand;
 import demo.ecommerce.products.repositories.ProductBrandRepository;
 import demo.ecommerce.products.repositories.ProductRepository;
 
